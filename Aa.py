@@ -1,7 +1,7 @@
 def logo():
 
 	os.system('clear')
-	logo = (f'''\033[1;37m                                 	
+ print  logo = (f'''\033[1;37m                                 	
 888    888          888b     d888          
 888    888          8888b   d8888           
 \033[1;92m888    888          88888b.d88888              
@@ -19,6 +19,6 @@ def logo():
  \033[1;37m---------------------------------------------------''')
 	print (logo)
 	os.system('espeak -a 300 " Welcome,   To,  ,Hamza,Tool,"')
-print('I love you I love you I love you I love you ')
-print(' love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕 ')
-print ( ' From -MrHamza ');time.sleep(2)
+print('\033[1;92mI love you I love you I love you I love you ')
+print(' \033[1;90mI love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕I love you I love you I love you I love you I love you I love you I love you I love you I love 💕 ')
+print ( ' From -MrHamza ')
